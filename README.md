@@ -4,8 +4,6 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer learning new skills to improve my arsenal!!</h3>  
 
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=bkj281&l)
 ![GitHub Badge](https://img.shields.io/github/followers/bkj281?label=Followers&style=social)
 
@@ -17,7 +15,7 @@
 
 - 🔭 I’m currently working on a Chat Application
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: [Email](mailto:bkj281@gmail.com)
+- 📫 How to reach me: [bkj281@gmail.com](mailto:bkj281@gmail.com)
 - 😄 Pronouns: He / His / Him
 <!-- ✍ You can find my projects here [portfolio] -->  
 <!-- - 👯 I’m looking to collaborate on ... -->
