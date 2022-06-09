@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" /></div>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavesh</h1>
+
+<h3 align="center">I'm a passionate Full Stack Developer learning new skills to imporve my arsenal!!</h3>
 
 <!--
 **bkj281/bkj281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
