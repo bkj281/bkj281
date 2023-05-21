@@ -13,10 +13,10 @@
 ## 🙋‍♂️ About Me   
 <!-- <br>   -->
 
-- 🔭 I’m currently working on a Chat Application
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on a Secret Project
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: [bkj281@gmail.com](mailto:bkj281@gmail.com)
-- 😄 Pronouns: He / His / Him
+<!-- - 😄 Pronouns: He / His / Him -->
 <!-- ✍ You can find my projects here [portfolio] -->  
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -33,16 +33,18 @@
 ## 🚀 Languages & Frameworks
 <br>
 
+![Angular.js](https://img.icons8.com/color/48/000000/angularjs.png)
+![TypeScript](https://img.icons8.com/color/48/undefined/typescript--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/undefined/javascript--v1.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
 ![Bootstrap](https://img.icons8.com/color/48/undefined/bootstrap.png)
 ![HTML](https://img.icons8.com/color/48/undefined/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/undefined/css3.png)
+![Python](https://img.icons8.com/color/48/undefined/python--v1.png)
 ![C++](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/>
-![Python](https://img.icons8.com/color/48/undefined/python--v1.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
 ![Java](https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png)
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -52,11 +54,14 @@
 
 ## 🔧 Tools
 ![Git](https://img.icons8.com/color/48/undefined/git.png)
+![Jira](https://img.icons8.com/color/48/undefined/jira.png)
+![Bitbucket](https://img.icons8.com/color/48/undefined/bitbucket.png)
 ![GitHub](https://img.icons8.com/glyph-neue/48/undefined/github.png)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![MySQL](https://img.icons8.com/color/48/undefined/mysql-logo.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-![Heroku](https://img.icons8.com/color/48/undefined/heroku.png)
+![Salesforce](https://img.icons8.com/color/48/undefined/salesforce.png)
+<!-- ![Heroku](https://img.icons8.com/color/48/undefined/heroku.png) -->
 
 <br>
 
