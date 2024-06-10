@@ -13,8 +13,8 @@
 ## 🙋‍♂️ About Me   
 <!-- <br>   -->
 
-- 🔭 I’m currently working on a Secret Project
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently enhancing Salesforce users with speed and performance.
+- 🌱 I’m currently upskilling with multiple stacks needed to enhance experience of Salesforce users.
 - 📫 How to reach me: [bkj281@gmail.com](mailto:bkj281@gmail.com)
 <!-- - 😄 Pronouns: He / His / Him -->
 <!-- ✍ You can find my projects here [portfolio] -->  
@@ -54,13 +54,13 @@
 
 ## 🔧 Tools
 ![Git](https://img.icons8.com/color/48/undefined/git.png)
+![Salesforce](https://img.icons8.com/color/48/undefined/salesforce.png)
 ![Jira](https://img.icons8.com/color/48/undefined/jira.png)
 ![Bitbucket](https://img.icons8.com/color/48/undefined/bitbucket.png)
 ![GitHub](https://img.icons8.com/glyph-neue/48/undefined/github.png)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![MySQL](https://img.icons8.com/color/48/undefined/mysql-logo.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-![Salesforce](https://img.icons8.com/color/48/undefined/salesforce.png)
 <!-- ![Heroku](https://img.icons8.com/color/48/undefined/heroku.png) -->
 
 <br>
