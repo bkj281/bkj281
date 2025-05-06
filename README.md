@@ -33,7 +33,7 @@
 ## 🚀 Languages & Frameworks
 <br>
 
-![Angular.js](https://img.icons8.com/color/48/000000/angularjs.png)
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![TypeScript](https://img.icons8.com/color/48/undefined/typescript--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/undefined/javascript--v1.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
@@ -47,8 +47,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
 ![Java](https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png)
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-
 
 <br>
 
